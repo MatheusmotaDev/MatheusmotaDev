@@ -13,13 +13,7 @@ Atualmente, atuo como **Desenvolvedor Full Stack** com foco em criar soluções 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/da_motaz/">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a> 
+   
     <a href="mailto:matheusmota.webdev@gmail.com">
         <img 
             alt="Email" 
