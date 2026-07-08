@@ -2,12 +2,13 @@
 
 **`Software Engineer | Flutter | React | Next.js | PostgreSQL | MySQL`**
 
-
 Sou estudante de Sistemas para Internet pela UNICAP e formado como Técnico em Análise e Desenvolvimento de Sistemas. Minha atuação é voltada ao desenvolvimento de produtos digitais, com foco em **Engenharia de Software**, **Arquitetura de Sistemas** e construção de soluções escaláveis.
 
-Atuo na concepção de produtos digitais, sendo responsável pelo planejamento técnico, definição da arquitetura dos sistemas, modelagem de dados, organização da estrutura das aplicações e desenvolvimento de soluções **web e mobile**. Busco alinhar decisões técnicas às necessidades do produto, priorizando qualidade, desempenho, manutenibilidade e uma experiência consistente para o usuário.
+Atuo no desenvolvimento de produtos digitais, sendo responsável pelo planejamento técnico, definição da arquitetura dos sistemas, modelagem de dados, organização da estrutura das aplicações e desenvolvimento de soluções web e mobile. Busco alinhar decisões técnicas às necessidades do produto, priorizando qualidade, desempenho, manutenibilidade e uma experiência consistente para o usuário.
 
-Tenho experiência com tecnologias como **Flutter**, **React**, **Next.js**, **Firebase**, **Supabase**, **PostgreSQL**, **MySQL**, **HTML/CSS** e **Git**. Além da formação acadêmica, participei de programas de residência tecnológica do **Porto Digital**, por meio do **Embarque Digital**, onde desenvolvi projetos práticos e me destaquei pelo desempenho.
+Ao longo da minha trajetória, participei da construção de produtos digitais em diferentes segmentos, incluindo **FoodTech**, **plataformas de gestão**, **educação financeira**, **mobilidade**, **impacto social** e **educação**, atuando desde a definição da arquitetura até a implementação das aplicações.
+
+Para desenvolver essas soluções, utilizo principalmente **Flutter**, **React**, **Next.js**, **Firebase**, **Supabase**, **PostgreSQL**, **MySQL**, **HTML/CSS** e **Git**. Além da formação acadêmica, participei de programas de residência tecnológica do **Porto Digital**, por meio do **Embarque Digital**, onde desenvolvi projetos práticos e me destaquei pelo desempenho.
 
 Estou em constante aprimoramento técnico, buscando aplicar boas práticas de engenharia de software para desenvolver soluções inovadoras, eficientes e capazes de gerar impacto positivo para usuários e negócios.
 
